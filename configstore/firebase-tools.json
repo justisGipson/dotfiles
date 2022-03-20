@@ -1,0 +1,70 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1644605004391
+	},
+	"activeProjects": {
+		"/Users/jgipson/Desktop/Dev/CurriculumAdmin/curriculumApp": "dev",
+		"/Users/jgipson/Desktop/Dev/App and Courses/curriculumApp": "597140609663",
+		"/Users/jgipson/Desktop/Dev/App/curriculumApp": "default",
+		"/Users/jgipson/Desktop/Dev/App/scratch-gui": "blorkly-87a58"
+	},
+	"webconfig": {
+		"codelicious-dev": {
+			"projectId": "codelicious-dev",
+			"appId": "1:795942540909:web:3d38ffb40c252b41",
+			"databaseURL": "https://codelicious-dev.firebaseio.com",
+			"storageBucket": "codelicious-dev.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyB29OwF-NdqcHq9Kb7Vb-tni_Nd3GHV4As",
+			"authDomain": "codelicious-dev.firebaseapp.com",
+			"messagingSenderId": "795942540909"
+		}
+	},
+	"adminsdkconfig": {
+		"codelicious-indy": {
+			"projectId": "codelicious-indy",
+			"databaseURL": "https://codelicious-indy.firebaseio.com",
+			"storageBucket": "codelicious-indy.appspot.com",
+			"locationId": "us-central"
+		}
+	},
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"analytics-uuid": "03c9548d-9c32-4893-8da1-a11adecfa74c",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "115834973736347377002",
+		"hd": "codelicious.com",
+		"email": "jgipson@codelicious.com",
+		"email_verified": true,
+		"at_hash": "qo7nw1pGUvpkGp_MvicY9g",
+		"iat": 1643659486,
+		"exp": 1643663086
+	},
+	"tokens": {
+		"expires_at": 1644609441141,
+		"refresh_token": "1//05XFHkdFI-yCOCgYIARAAGAUSNwF-L9IrzfQwi7p8DxRI3Fdu7D1TV1F4fNla3Tc_0GXt2R7cPXW5wnK01xz4fRvdFX2js9IsVN0",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.A0ARrdaM8o2pKjkN8PIcQa7NoC9A7bY9Q1V8Jm3qBcOEHni1zx0-X0f2A2VR-c9tFZiphJbR2I9DcTxSUfGRZULciIn_PZhE4eWlMQiuseeiq6rI_osJbM63q0UOzjGxk0ae-gwYUt7WvJJrERERo1fUKw26eMOpa486LwRw",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE4MmU0NTBhMzVhMjA4MWZhYTFkOWFlMWQyZDc1YTBmMjNkOTFkZjgiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE1ODM0OTczNzM2MzQ3Mzc3MDAyIiwiaGQiOiJjb2RlbGljaW91cy5jb20iLCJlbWFpbCI6ImpnaXBzb25AY29kZWxpY2lvdXMuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJBU2JxNEZnSUpBNjU4QmhiZWYwRHdnIiwiaWF0IjoxNjQ0NjA1ODQyLCJleHAiOjE2NDQ2MDk0NDJ9.MKCG6PNIEu6tgEtpzXZNJhmmwW94q33EqbHQx8rwHHbLGjW1tulYA4N4Qr8wvAco-fGdgTGY9sMI0sxq7697_qfv46Fm4eHD9aQ2N8oZXr9IwnMLBqqBQvsEJVbOkYE3oF67eys-_gcXhbHYJtrJSD4_YGulyQm1aqaANtrE1Bz-t_mw7eb6Tc-9rpYg4ouisVOs4Qv1URIsNfADQiuzWn21AhCFY1JSq8v6U0boC3SgOkHIuW0hXNBgFst6t2A1_EPLYemYCInvIic_R2ylhMSSsqau7zV5yPaddMrUgzh6NAYCK6eTSsIyrGsZL90TrwsDJdpHMiBce9LRjlx_oA"
+	}
+}

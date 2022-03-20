@@ -1,0 +1,15 @@
+set linenumbers
+set mouse
+set softwrap
+
+set titlecolor green,black
+set numbercolor green,black
+set statuscolor green,black
+set keycolor green,black
+set functioncolor green,black
+
+set tabsize 2
+
+set autoindent
+
+include ~/.nano/nanorc/*.nanorc

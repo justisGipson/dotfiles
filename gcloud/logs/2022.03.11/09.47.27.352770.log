@@ -1,0 +1,29 @@
+2022-03-11 09:47:27,354 DEBUG    root            Running [gcloud] with arguments: [-v: "None"]
+2022-03-11 09:47:27,358 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2022-03-11 09:47:27,360 DEBUG    root            Running [gcloud.version] with arguments: []
+2022-03-11 09:47:27,376 INFO     root            Display format: "flattened[no-pad,separator=" "]"
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___ Google Cloud SDK
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___ 376.0.0
+
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___ beta
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___ 2022.03.04
+
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___ bq
+2022-03-11 09:47:27,377 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ 2.0.74
+
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ core
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ 2022.03.04
+
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ docker-credential-gcr
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ 1.5.0
+
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ gsutil
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___  
+2022-03-11 09:47:27,378 INFO     ___FILE_ONLY___ 5.6
+
+2022-03-11 09:47:27,392 DEBUG    root            Metrics reporting process started...

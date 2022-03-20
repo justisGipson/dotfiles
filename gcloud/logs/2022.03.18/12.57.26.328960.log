@@ -1,0 +1,45 @@
+2022-03-18 12:57:26,336 DEBUG    root            Loaded Command Group: ['gcloud', 'survey']
+2022-03-18 12:57:26,338 DEBUG    root            Running [gcloud.survey] with arguments: []
+2022-03-18 12:57:26,346 INFO     ___FILE_ONLY___ Thank you for taking the survey. The response is anonymous and will only be used to improve our product. Please DO NOT report bugs here. Use $ gcloud feedback instead to help us address the issue faster.
+
+2022-03-18 12:57:26,346 INFO     ___FILE_ONLY___ 
+Question 1 of 3:
+
+
+2022-03-18 12:57:26,346 INFO     ___FILE_ONLY___   Overall, how satisfied are you with gcloud CLI?
+    [5] Very satisfied
+    [4] Somewhat satisfied
+    [3] Neither satisfied nor dissatisfied
+    [2] Somewhat dissatisfied
+    [1] Very dissatisfied
+
+2022-03-18 12:57:26,346 INFO     ___FILE_ONLY___ 
+
+2022-03-18 12:57:26,346 INFO     ___FILE_ONLY___ To skip this question, type s; to exit the survey, type x.
+
+2022-03-18 12:57:34,946 INFO     ___FILE_ONLY___ 
+Question 2 of 3:
+
+
+2022-03-18 12:57:34,946 INFO     ___FILE_ONLY___   On a scale from 0-10, where 0 means "Not at all likely" and 10 means "Extremely likely", how likely are you to recommend gcloud CLI to a friend or colleague?
+
+2022-03-18 12:57:34,946 INFO     ___FILE_ONLY___ 
+
+2022-03-18 12:57:34,946 INFO     ___FILE_ONLY___ To skip this question, type s; to exit the survey, type x.
+
+2022-03-18 12:57:42,113 INFO     ___FILE_ONLY___ 
+Question 3 of 3:
+
+
+2022-03-18 12:57:42,113 INFO     ___FILE_ONLY___   What are the reasons for the ratings you gave? [Please DO NOT enter personal info]
+
+2022-03-18 12:57:42,113 INFO     ___FILE_ONLY___ 
+
+2022-03-18 12:57:42,113 INFO     ___FILE_ONLY___ To skip this question, type s; to exit the survey, type x.
+
+2022-03-18 12:58:35,027 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): play.googleapis.com:443
+2022-03-18 12:58:35,460 DEBUG    urllib3.connectionpool https://play.googleapis.com:443 "POST /log HTTP/1.1" 200 None
+2022-03-18 12:58:35,464 INFO     ___FILE_ONLY___ Your response is submitted.
+
+2022-03-18 12:58:35,465 INFO     root            Display format: "default"
+2022-03-18 12:58:35,475 DEBUG    root            Metrics reporting process started...
