@@ -1,6 +1,6 @@
 # DOTFILES
 
-There is an install script for Homebrew, ```brew.sh` that will install Homebrew, update, upgrade any pre-installed packeages and the install my homebrew formulae
+There is an install script for Homebrew, `brew.sh` that will install Homebrew, update, upgrade any pre-installed packeages and the install my homebrew formulae
 
 The rest of the files and configs are here for reference more or less.
 
