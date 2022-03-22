@@ -90,8 +90,10 @@ brew install sambadevi/powerlevel9k/powerlevel9k
 brew install --cask 1password
 brew install --cask devtoys
 brew install --cask docker
+brew install --cask fantastical
 brew install --cask font-hack-nerd-font
 brew install --cask google-chrome
+brew install --cask iterm2
 brew install --cask postgres
 brew install --cask postman
 brew install --cask qmk-toolbox
@@ -100,3 +102,5 @@ brew install --cask slack
 brew install --cask spotify
 brew install --cask vagrant
 brew install --cask visual-studio-code
+brew install --cask wireshark
+brew install --cask zoom
