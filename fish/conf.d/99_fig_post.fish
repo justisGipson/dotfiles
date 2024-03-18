@@ -1,1 +1,0 @@
-/Users/jgipson/.fig/shell/post.fish

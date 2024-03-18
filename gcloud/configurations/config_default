@@ -1,7 +1,0 @@
-[core]
-account = jgipson@codelicious.com
-project = bluebird-329617
-
-[app]
-cloud_build_timeout = 1000
-
